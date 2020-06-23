@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/app/static/css/main.c1e22791.chunk.css",
+    "main.js": "/app/static/js/main.9132d307.chunk.js",
+    "main.js.map": "/app/static/js/main.9132d307.chunk.js.map",
+    "runtime-main.js": "/app/static/js/runtime-main.12ceb904.js",
+    "runtime-main.js.map": "/app/static/js/runtime-main.12ceb904.js.map",
+    "static/js/2.81688b44.chunk.js": "/app/static/js/2.81688b44.chunk.js",
+    "static/js/2.81688b44.chunk.js.map": "/app/static/js/2.81688b44.chunk.js.map",
+    "index.html": "/app/index.html",
+    "precache-manifest.743b2cd40616f3e7c6ab800809095d53.js": "/app/precache-manifest.743b2cd40616f3e7c6ab800809095d53.js",
+    "service-worker.js": "/app/service-worker.js",
+    "static/css/main.c1e22791.chunk.css.map": "/app/static/css/main.c1e22791.chunk.css.map",
+    "static/js/2.81688b44.chunk.js.LICENSE.txt": "/app/static/js/2.81688b44.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/app/static/media/bgimage.c2685584.jpg",
+    "static/media/chemistry.jpg": "/app/static/media/chemistry.957d66d0.jpg",
+    "static/media/cs.jpg": "/app/static/media/cs.cad0b22b.jpg",
+    "static/media/ee.jpg": "/app/static/media/ee.bec595c2.jpg",
+    "static/media/eng.jpg": "/app/static/media/eng.c3b6db1d.jpg",
+    "static/media/maths.jpg": "/app/static/media/maths.1406e94b.jpg",
+    "static/media/phy.jpg": "/app/static/media/phy.29efd3bb.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12ceb904.js",
+    "static/js/2.81688b44.chunk.js",
+    "static/css/main.c1e22791.chunk.css",
+    "static/js/main.9132d307.chunk.js"
+  ]
+}
