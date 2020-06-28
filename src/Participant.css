@@ -1,0 +1,34 @@
+.row{
+    max-width: 1140px;
+    margin: 0 auto;
+    font-family: cursive;
+
+}
+.row:not(:last-child)
+{
+    margin-bottom: 60px;
+}
+.col-1-of-3{
+    width:calc((90%-100px)/3);
+    float: left;
+}
+.col-1-of-3:not(:last-child)
+{
+    margin-right: 10px;
+}
+.row:after{
+    content: "";
+    display: table;
+    clear: both;
+}
+.col-1-of-3 button:hover{
+    color:orangered;
+    transform: translateY(10px);
+    font-weight: bold;
+}
+.col-1-of-3 button{
+    border: white;
+    border-radius:10px ;
+    width: 100px;
+    height: 30px;
+}

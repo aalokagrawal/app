@@ -1,0 +1,12 @@
+.body{
+  margin:0px;
+  padding: 0px;
+}
+.App{
+  background-image: linear-gradient(
+    to right,
+    rgba(201, 106, 245, 0.5),
+    rgba(199, 243, 6, 0.5)
+  );
+  height: 100vh;
+}
